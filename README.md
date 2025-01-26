@@ -6,7 +6,7 @@ Software engineer specializing in full-stack development and 3D interactive expe
 ## Core Technologies
 ```
 Frontend: React, Next.js, TypeScript, Unity, WebGL
-Backend: Node.js, Python, Java
+Backend: Node.js, Python, Java, C/C++
 Cloud & Data: AWS, GCP, MongoDB, MySQL
 Tools: Git, Docker, Maya
 ```
