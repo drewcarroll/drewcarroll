@@ -31,7 +31,7 @@ AI-powered study tool designed for students with ADHD, featuring automated flash
 3D chess application built in Unity featuring both local multiplayer and AI integration via Stockfish API. Implemented custom shaders for real-time board control visualization and attack/defense indicators. Designed with modular architecture allowing for feature toggles and game modifications.
 
 ### HappyHourSF
-[Live Site]() • [GitHub](https://github.com/johnmikes100/happyhour)
+[Live Site](https://sfhappy.com) • [GitHub](https://github.com/johnmikes100/happyhour)
 Full-stack application streamlining happy hour discovery in San Francisco. Leverages React, Node.js, and MongoDB for dynamic content management, integrating Google Places API for real-time venue information and media. Features location-based search and comprehensive deal filtering. Currently in active development.
 
 ### Mediator.ai
