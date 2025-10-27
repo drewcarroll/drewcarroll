@@ -12,7 +12,7 @@ Tools: Git, Docker, Maya
 ```
 
 ## Portfolio
-Explore my interactive 3D portfolio at [drewcarroll.github.io/portfolio](https://drewcarroll.github.io/portfolio)
+Explore my portfolio at [drewcarroll.github.io/portfolio](https://drewcarroll.github.io/portfolio)
 
 ## Connect
 - Email: dqcarrol@usc.edu
